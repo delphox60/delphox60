@@ -5,6 +5,7 @@
 </a>
 <a href="https://solved.ac/profile/kb28" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhZeeb_fKSVKE-6_K2d1r0d7E2eI9jkERNg&usqp=CAU&style=for-the-badge&logo=facebook&logoColor=white alt=solved.ac style="margin-bottom: 5px; height: 28px; width: 28px" />
+<span style="height: 28px; background-color: #1fc742;">SOLVED.AC</span>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100027296437297" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -13,7 +14,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+<br/>
+
 Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
+
+<br/>
 
 ### 🌟 Interests
 - 🧮 Algorithms && Problem Solving
@@ -21,12 +26,14 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🏂 Snowboarding!
 - 🪄 Magic!
 
+<br/>
+
 ### 🌱 Learning Now
 - ☕️ Java
 - MVC pattern
 - Functional Programming
 
-###
+
 
 <!--
 **delphox60/delphox60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
