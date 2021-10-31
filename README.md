@@ -18,7 +18,10 @@
 
 
 
+
+
 Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
+
 
 
 ### 🌟 Interests
@@ -28,12 +31,26 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🪄 Magic!
 
 
+
 ### 🌱 Learning Now
 - ☕️ Java
 - MVC pattern
 - Functional Programming
 
 
+
+### Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=delphox60&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delphox60&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/> 
 
 <!--
 **delphox60/delphox60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
