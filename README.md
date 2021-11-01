@@ -20,7 +20,6 @@
 Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 
 <br/>
-
 ### 🌟 Interests
 - 🧮 Algorithms && Problem Solving
 - 📚 Principles of Programming Language
@@ -28,14 +27,12 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🪄 Magic!
 
 <br/>
-
 ### 🌱 Learning Now
 - ☕️ Java
 - MVC pattern
 - Functional Programming
 
 <br/>
-
 ### Github Stats  
 <table><tr><td valign="top" width="50%">
 
