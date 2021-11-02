@@ -27,7 +27,7 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🪄 Magic!
 <br/>
 
-### 🌱 Learning Now
+### 🌱 Currently Learning
 - ☕️ Java
 - MVC pattern
 - Functional Programming
