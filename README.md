@@ -22,7 +22,6 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🏂 Snowboarding
 - 🪄 Magic!
 <br/>
-
 ### 🌱 Currently Learning
 - ☕️ Java
 - MVC pattern
