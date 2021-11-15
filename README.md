@@ -23,6 +23,10 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 🪄 Magic!
 <br/>
 
+### 🛠 Projects Currently Progressing
+- 🍚 UNIST HakSik-Bot
+- 👨‍💼 Marketing Product Management
+
 ### 🌱 Currently Learning
 - ☕️ Java
 - MVC pattern
