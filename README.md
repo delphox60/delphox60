@@ -21,7 +21,6 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 - 📚 Principles of Programming Language
 - 🏂 Snowboarding
 - 🪄 Magic!
-<br/>
 
 ### 🛠 Projects Currently Progressing
 - 🍚 UNIST HakSik-Bot
