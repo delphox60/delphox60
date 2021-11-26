@@ -12,6 +12,8 @@
 
 <br/>
 <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kb28)](https://solved.ac/kb28/)
+
 
 Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 <br/>
