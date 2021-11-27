@@ -29,7 +29,7 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 
 ### 🌱 Currently Learning
 - ☕️ Java && OOP
-- ASP .NET Core
+- ⚛️ ASP .NET Core
 <br/>
 
 ### Github Stats  
