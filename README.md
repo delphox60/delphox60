@@ -19,8 +19,6 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
 ### 🌟 Interests
 - 🧮 Algorithms && Problem Solving
 - 📚 Principles of Programming Language
-- 🏂 Snowboarding
-- 🪄 Magic!
 
 ### 🛠 Projects Currently Progressing
 - 📚 Woowa-precourse
