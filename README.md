@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST
+Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST (2021. 03.~)
 <br/>
 
 ### 🌟 Interests
