@@ -18,6 +18,7 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST (2021. 
 
 ### 🌟 Interests
 - 🧮 Algorithms && Problem Solving
+- ⚙️ Server Programming
 
 ### 🛠 Projects Currently Progressing
 - 📚 Woowa-precourse
