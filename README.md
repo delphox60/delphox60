@@ -21,7 +21,6 @@ Hello! I'm Gibeom Lim, student of Computer Science & Engineering, @UNIST (2021. 
 - ƛ Functional Programming with Haskell
 
 ### 🛠 Projects Currently Progressing
-- 📚 Woowa-precourse
 - 🍚 UNIST HakSik-Bot
 - 👨‍💼 SNS Marketing Product Management
 
